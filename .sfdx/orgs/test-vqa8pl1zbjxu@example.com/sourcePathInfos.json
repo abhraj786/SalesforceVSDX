@@ -1,0 +1,215 @@
+[
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525025694271,
+            "changeTime": 1525025694271,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525025694272,
+            "changeTime": 1525025694272,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525025694272,
+            "changeTime": 1525025694272,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525026535462,
+            "changeTime": 1525026535462,
+            "contentHash": "a95a042d7501c0df3a2071cc99a5f619b97bc87c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525026535501,
+            "changeTime": 1525026535501,
+            "contentHash": "4f7f2069a8dfb19ae06b00555450f97db8d1df85",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.auradoc",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1525026535500,
+            "changeTime": 1525026535500,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.cmp",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 76,
+            "modifiedTime": 1525026788378,
+            "changeTime": 1525026788378,
+            "contentHash": "b206dcbf7bb2bca4b45a398f9f4dd59c86b89a39"
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1525026788358,
+            "changeTime": 1525026788358,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1525026788368,
+            "changeTime": 1525026788368,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.design",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1525026535505,
+            "changeTime": 1525026535505,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.svg",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldComp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1525026535496,
+            "changeTime": 1525026535496,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldCompController.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldCompController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1525026788375,
+            "changeTime": 1525026788375,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldCompHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldCompHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1525026788372,
+            "changeTime": 1525026788372,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldCompRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX\\force-app\\main\\default\\aura\\HelloWorldComp\\HelloWorldCompRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1525026788364,
+            "changeTime": 1525026788364,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+        }
+    ],
+    [
+        "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX",
+        {
+            "sourcePath": "c:\\Users\\abhraj\\Desktop\\DX Project\\HelloWorldDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525025923029,
+            "changeTime": 1525025923029,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
